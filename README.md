@@ -1,4 +1,3 @@
-```markdown
 # Employee Management System
 
 The Employee Management System is a full-stack web application that consists of a Spring Boot backend for creating a RESTful API and a React.js frontend for consuming that API. The project offers a robust solution for managing employee data with essential CRUD features:
